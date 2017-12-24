@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="A">
+        <item>"1.151549943"</item> <!--h/w   min-->
+        <item>"1.231647883"</item>
+        <item>"0.3197951112"</item>  <!--b/w   min-->
+        <item>"0.3987779529"</item>
+        <item>"0.004752283405"</item> <!--(h/w)/p    min-->
+        <item>"0.006556550156"</item>
+        <item>"2"</item><!--vertical inter  min-->
+        <item>"4"</item>
+        <item>"3"</item><!--horizontal inter    min-->
+        <item>"3"</item>
+        <item>"Forte"</item>
+    </string-array>
+
+    <string-array name="B">
+        <item>"0.5316455696"</item> <!--h/w   min-->
+        <item>"0.602739726"</item>
+        <item>"0.717146433"</item>  <!--b/w   min-->
+        <item>"0.790593505"</item>
+        <item>"0.001055880442"</item> <!--(h/w)/p    min-->
+        <item>"0.001274929424"</item>
+        <item>"6"</item><!--vertical inter  min-->
+        <item>"8"</item>
+        <item>"10"</item><!--horizontal inter    min-->
+        <item>"13"</item>
+        <item>"MezzoPiano"</item>
+    </string-array>
+
+    <string-array name="C">
+        <item>"0.8169014085"</item> <!--h/w   min-->
+        <item>"0.880952381"</item>
+        <item>"0.4821428571"</item>  <!--b/w   min-->
+        <item>"0.5776986951"</item>
+        <item>"0.0008506903054"</item> <!--(h/w)/p    min-->
+        <item>"0.001868064462"</item>
+        <item>"3"</item><!--vertical inter  min-->
+        <item>"7"</item>
+        <item>"5"</item><!--horizontal inter    min-->
+        <item>"5"</item>
+        <item>"Fortissimo"</item>
+    </string-array>
+
+    <string-array name="D">
+        <item>"0.9534883721"</item> <!--h/w   min-->
+        <item>"1.084745763"</item>
+        <item>"0.3790336317"</item>  <!--b/w   min-->
+        <item>"0.5939342881"</item>
+        <item>"0.0009377159214"</item> <!--(h/w)/p    min-->
+        <item>"0.002222612154"</item>
+        <item>"3"</item><!--vertical inter  min-->
+        <item>"8"</item>
+        <item>"5"</item><!--horizontal inter    min-->
+        <item>"8"</item>
+        <item>"Forzando"</item>
+    </string-array>
+
+    <string-array name="E">
+        <item>"0.8333333333"</item> <!--h/w   min-->
+        <item>"0.8802816901"</item>
+        <item>"0.5114107884"</item>  <!--b/w   min-->
+        <item>"0.6289458442"</item>
+        <item>"0.0006797295583"</item> <!--(h/w)/p    min-->
+        <item>"0.001412429379"</item>
+        <item>"2"</item><!--vertical inter  min-->
+        <item>"5"</item>
+        <item>"8"</item><!--horizontal inter    min-->
+        <item>"11"</item>
+        <item>"Sforzando"</item>
+    </string-array>
+
+    <string-array name="F">
+        <item>"1.027690802"</item> <!--h/w   min-->
+        <item>"1.092135383"</item>
+        <item>"0.5064915723"</item>  <!--b/w   min-->
+        <item>"0.5886441223"</item>
+        <item>"0.001147038914"</item> <!--(h/w)/p    min-->
+        <item>"0.002485569684"</item>
+        <item>"2"</item><!--vertical inter  min-->
+        <item>"6"</item>
+        <item>"6"</item><!--horizontal inter    min-->
+        <item>"9"</item>
+        <item>"Sforzando2"</item>
+    </string-array>
+
+    <string-array name="G">
+        <item>"0.7821551724"</item> <!--h/w   min-->
+        <item>"0.8360778443"</item>
+        <item>"0.5874768311"</item>  <!--b/w   min-->
+        <item>"0.836261715"</item>
+        <item>"0.0009691238625"</item> <!--(h/w)/p    min-->
+        <item>"0.001848047923"</item>
+        <item>"8"</item><!--vertical inter  min-->
+        <item>"12"</item>
+        <item>"8"</item><!--horizontal inter    min-->
+        <item>"9"</item>
+        <item>"Fortepiano"</item>
+    </string-array>
+
+    <string-array name="H">
+        <item>"0.5696084724"</item> <!--h/w   min-->
+        <item>"0.6209489456"</item>
+        <item>"0.6270607517"</item>  <!--b/w   min-->
+        <item>"0.7844860016"</item>
+        <item>"0.0005015637416"</item> <!--(h/w)/p    min-->
+        <item>"0.0007350690662"</item>
+        <item>"3"</item><!--vertical inter  min-->
+        <item>"9"</item>
+        <item>"7"</item><!--horizontal inter    min-->
+        <item>"8"</item>
+        <item>"Fortississimo"</item>
+    </string-array>
+
+    <string-array name="I">
+        <item>"0.7469135802"</item> <!--h/w   min-->
+        <item>"0.7664974619"</item>
+        <item>"0.3837559089"</item>  <!--b/w   min-->
+        <item>"0.4494182607"</item>
+        <item>"0.0006555944056"</item> <!--(h/w)/p    min-->
+        <item>"0.0008030473158"</item>
+        <item>"3"</item><!--vertical inter  min-->
+        <item>"12"</item>
+        <item>"9"</item><!--horizontal inter    min-->
+        <item>"12"</item>
+        <item>"Mezzo forte"</item>
+    </string-array>
+
+    <string-array name="J">
+        <item>"0.5401459854"</item> <!--h/w   min-->
+        <item>"0.5683760684"</item>
+        <item>"0.8298429319"</item>  <!--b/w   min-->
+        <item>"0.9742813918"</item>
+        <item>"0.0003723197602"</item> <!--(h/w)/p    min-->
+        <item>"0.0007256380305"</item>
+        <item>"3"</item><!--vertical inter  min-->
+        <item>"6"</item>
+        <item>"8"</item><!--horizontal inter    min-->
+        <item>"11"</item>
+        <item>"Pianissimo"</item>
+    </string-array>
+
+    <string-array name="K">
+        <item>"0.3666666667"</item> <!--h/w   min-->
+        <item>"0.3890350877"</item>
+        <item>"0.7727248017"</item>  <!--b/w   min-->
+        <item>"1.076059884"</item>
+        <item>"0.0002872540837"</item> <!--(h/w)/p    min-->
+        <item>"0.0006649503031"</item>
+        <item>"2"</item><!--vertical inter  min-->
+        <item>"6"</item>
+        <item>"11"</item><!--horizontal inter    min-->
+        <item>"14"</item>
+        <item>"Pianississimo"</item>
+    </string-array>
+
+    <string-array name="L">
+        <item>"0.8751044277"</item> <!--h/w   min-->
+        <item>"1.130420054"</item>
+        <item>"0.6331295343"</item>  <!--b/w   min-->
+        <item>"0.7888914263"</item>
+        <item>"0.004460143032"</item> <!--(h/w)/p    min-->
+        <item>"0.006359504002"</item>
+        <item>"2"</item><!--vertical inter  min-->
+        <item>"6"</item>
+        <item>"4"</item><!--horizontal inter    min-->
+        <item>"7"</item>
+        <item>"Piano"</item>
+    </string-array>
+
+</resources>

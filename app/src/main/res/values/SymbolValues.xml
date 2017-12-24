@@ -1,0 +1,394 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="A">
+        <item>"1.137105691"</item> <!--h/w   min-->
+        <item>"1.158483361"</item>
+        <item>"0.3208438879"</item>  <!--b/w   min-->
+        <item>"0.3416194178"</item>
+        <item>"0.001096332443"</item> <!--(h/w)/p    min-->
+        <item>"0.001606824343"</item>
+        <item>"4"</item><!--vertical inter  min-->
+        <item>"9"</item>
+        <item>"3"</item><!--horizontal inter    min-->
+        <item>"7"</item>
+        <item>"Forte"</item>
+        <item>"loud; strong"</item>
+    </string-array>
+
+    <string-array name="B">
+        <item>"0.5476190476"</item> <!--h/w   min-->
+        <item>"0.6558139535"</item>
+        <item>"0.6861250418"</item>  <!--b/w   min-->
+        <item>"0.7586071987"</item>
+        <item>"0.0005648269446"</item> <!--(h/w)/p    min-->
+        <item>"0.001211546566"</item>
+        <item>"6"</item><!--vertical inter  min-->
+        <item>"14"</item>
+        <item>"10"</item><!--horizontal inter    min-->
+        <item>"14"</item>
+        <item>"MezzoPiano"</item>
+        <item>"moderately soft"</item>
+    </string-array>
+
+    <string-array name="C">
+        <item>"0.7386934673"</item> <!--h/w   min-->
+        <item>"0.8481012658"</item>
+        <item>"0.4608030593"</item>  <!--b/w   min-->
+        <item>"0.5776986951"</item>
+        <item>"0.0006928231118"</item> <!--(h/w)/p    min-->
+        <item>"0.001868064462"</item>
+        <item>"3"</item><!--vertical inter  min-->
+        <item>"7"</item>
+        <item>"5"</item><!--horizontal inter    min-->
+        <item>"6"</item>
+        <item>"Fortissimo"</item>
+        <item>"very loud"</item>
+    </string-array>
+
+    <string-array name="D">
+        <item>"0.9470198675"</item> <!--h/w   min-->
+        <item>"1.026666667"</item>
+        <item>"0.3385282473"</item>  <!--b/w   min-->
+        <item>"0.5831225569"</item>
+        <item>"0.0008441939906"</item> <!--(h/w)/p    min-->
+        <item>"0.001982304308"</item>
+        <item>"3"</item><!--vertical inter  min-->
+        <item>"8"</item>
+        <item>"4"</item><!--horizontal inter    min-->
+        <item>"8"</item>
+        <item>"Forzando"</item>
+        <item>"force, strongly accented"</item>
+    </string-array>
+
+    <string-array name="E">
+        <item>"0.8333333333"</item> <!--h/w   min-->
+        <item>"0.8802816901"</item>
+        <item>"0.5114107884"</item>  <!--b/w   min-->
+        <item>"0.6289458442"</item>
+        <item>"0.0006797295583"</item> <!--(h/w)/p    min-->
+        <item>"0.001412429379"</item>
+        <item>"2"</item><!--vertical inter  min-->
+        <item>"5"</item>
+        <item>"8"</item><!--horizontal inter    min-->
+        <item>"11"</item>
+        <item>"Sforzando"</item>
+        <item>"force, strongly accented"</item>
+    </string-array>
+
+    <string-array name="F">
+        <item>"1.027690802"</item> <!--h/w   min-->
+        <item>"1.092135383"</item>
+        <item>"0.5064915723"</item>  <!--b/w   min-->
+        <item>"0.5886441223"</item>
+        <item>"0.001147038914"</item> <!--(h/w)/p    min-->
+        <item>"0.002485569684"</item>
+        <item>"2"</item><!--vertical inter  min-->
+        <item>"6"</item>
+        <item>"6"</item><!--horizontal inter    min-->
+        <item>"9"</item>
+        <item>"Sforzando"</item>
+        <item>"force, strongly accented"</item>
+    </string-array>
+
+    <string-array name="G">
+        <item>"0.81999307"</item> <!--h/w   min-->
+        <item>"0.8428475808"</item>
+        <item>"0.6044140195"</item>  <!--b/w   min-->
+        <item>"0.6833544474"</item>
+        <item>"0.000591743825"</item> <!--(h/w)/p    min-->
+        <item>"0.0008885466957"</item>
+        <item>"10"</item><!--vertical inter  min-->
+        <item>"15"</item>
+        <item>"8"</item><!--horizontal inter    min-->
+        <item>"10"</item>
+        <item>"Fortepiano"</item>
+        <item>"loud then immediately soft"</item>
+    </string-array>
+
+    <string-array name="H">
+        <item>"0.5696084724"</item> <!--h/w   min-->
+        <item>"0.6209489456"</item>
+        <item>"0.6270607517"</item>  <!--b/w   min-->
+        <item>"0.7844860016"</item>
+        <item>"0.0005015637416"</item> <!--(h/w)/p    min-->
+        <item>"0.0007350690662"</item>
+        <item>"3"</item><!--vertical inter  min-->
+        <item>"9"</item>
+        <item>"7"</item><!--horizontal inter    min-->
+        <item>"8"</item>
+        <item>"Fortississimo"</item>
+        <item>"very, very loud"</item>
+    </string-array>
+
+    <string-array name="I">
+        <item>"0.7808988764"</item> <!--h/w   min-->
+        <item>"0.8"</item>
+        <item>"0.3759169943"</item>  <!--b/w   min-->
+        <item>"0.3917510121"</item>
+        <item>"0.0004596711884"</item> <!--(h/w)/p    min-->
+        <item>"0.0006285181203"</item>
+        <item>"9"</item><!--vertical inter  min-->
+        <item>"14"</item>
+        <item>"9"</item><!--horizontal inter    min-->
+        <item>"14"</item>
+        <item>"Mezzo forte"</item>
+        <item>"moderately loud"</item>
+    </string-array>
+
+    <string-array name="J">
+        <item>"0.5401459854"</item> <!--h/w   min-->
+        <item>"0.5683760684"</item>
+        <item>"0.8298429319"</item>  <!--b/w   min-->
+        <item>"0.9742813918"</item>
+        <item>"0.0003723197602"</item> <!--(h/w)/p    min-->
+        <item>"0.0007256380305"</item>
+        <item>"3"</item><!--vertical inter  min-->
+        <item>"6"</item>
+        <item>"8"</item><!--horizontal inter    min-->
+        <item>"11"</item>
+        <item>"Pianissimo"</item>
+        <item>"very soft"</item>
+    </string-array>
+
+    <string-array name="K">
+        <item>"0.3666666667"</item> <!--h/w   min-->
+        <item>"0.3890350877"</item>
+        <item>"0.7727248017"</item>  <!--b/w   min-->
+        <item>"1.076059884"</item>
+        <item>"0.0002872540837"</item> <!--(h/w)/p    min-->
+        <item>"0.0006649503031"</item>
+        <item>"2"</item><!--vertical inter  min-->
+        <item>"6"</item>
+        <item>"11"</item><!--horizontal inter    min-->
+        <item>"14"</item>
+        <item>"Pianississimo"</item>
+        <item>"very, very soft volume"</item>
+    </string-array>
+
+    <string-array name="L">
+        <item>"0.8751044277"</item> <!--h/w   min-->
+        <item>"1.130420054"</item>
+        <item>"0.6331295343"</item>  <!--b/w   min-->
+        <item>"0.7888914263"</item>
+        <item>"0.004460143032"</item> <!--(h/w)/p    min-->
+        <item>"0.006359504002"</item>
+        <item>"2"</item><!--vertical inter  min-->
+        <item>"6"</item>
+        <item>"4"</item><!--horizontal inter    min-->
+        <item>"7"</item>
+        <item>"Piano"</item>
+        <item>"Soft"</item>
+    </string-array>
+
+    <string-array name="M">
+        <item>"17"</item> <!--h/w   min-->
+        <item>"26"</item>
+        <item>"6"</item>  <!--b/w   min-->
+        <item>"10"</item>
+        <item>"2.043478261"</item> <!--(h/w)/p    min-->
+        <item>"2.072727273"</item>
+        <item>"0.3975272422"</item><!--vertical inter  min-->
+        <item>"0.4217207334"</item>
+        <item>"0.0009531148605"</item><!--horizontal inter    min-->
+        <item>"0.001190665653"</item>
+        <item>"Treble Clef"</item><!--name    min-->
+        <item>"A symbol indicating that the second line from the bottom of a staff represents the pitch of G above middle C. Also called G clef."</item><!--definition    min-->
+    </string-array>
+
+    <string-array name="N">
+        <item>"11"</item> <!--h/w   min-->
+        <item>"15"</item>
+        <item>"2"</item>  <!--b/w   min-->
+        <item>"43"</item>
+        <item>"1.223880597"</item> <!--(h/w)/p    min-->
+        <item>"1.235294118"</item>
+        <item>"0.3779212108"</item><!--vertical inter  min-->
+        <item>"0.408602915"</item>
+        <item>"0.0007556732053"</item><!--horizontal inter    min-->
+        <item>"0.0008705384902"</item>
+        <item>"Bass Clef"</item><!--name    min-->
+        <item>"A symbol indicating that the pitch of the second highest line of the staff is F below middle C. Also called F clef."</item><!--definition    min-->
+    </string-array>
+
+    <string-array name="O">
+        <item>"9"</item> <!--h/w   min-->
+        <item>"12"</item>
+        <item>"1"</item>  <!--b/w   min-->
+        <item>"7"</item>
+        <item>"1.366197183"</item> <!--(h/w)/p    min-->
+        <item>"1.375"</item>
+        <item>"0.2822205918"</item><!--vertical inter  min-->
+        <item>"0.3035190616"</item>
+        <item>"0.001068376068"</item><!--horizontal inter    min-->
+        <item>"0.001313813814"</item>
+        <item>"Whole Rest"</item><!--name    min-->
+        <item>"a rest equivalent in duration to a whole note."</item><!--definition    min-->
+    </string-array>
+
+
+    <string-array name="P">
+        <item>"9"</item> <!--h/w   min-->
+        <item>"11"</item>
+        <item>"2"</item>  <!--b/w   min-->
+        <item>"27"</item>
+        <item>"1.122807018"</item> <!--(h/w)/p    min-->
+        <item>"1.129032258"</item>
+        <item>"0.2704497167"</item><!--vertical inter  min-->
+        <item>"0.2886209495"</item>
+        <item>"0.0008099352052"</item><!--horizontal inter    min-->
+        <item>"0.001052147619"</item>
+        <item>"Half Rest"</item><!--name    min-->
+        <item>"a rest equal in time value to a half note."</item><!--definition    min-->
+    </string-array>
+
+    <string-array name="Q">
+        <item>"15"</item> <!--h/w   min-->
+        <item>"20"</item>
+        <item>"1"</item>  <!--b/w   min-->
+        <item>"11"</item>
+        <item>"1.668508287"</item> <!--(h/w)/p    min-->
+        <item>"1.685185185"</item>
+        <item>"0.1630520817"</item><!--vertical inter  min-->
+        <item>"0.1752533528"</item>
+        <item>"0.001341859894"</item><!--horizontal inter    min-->
+        <item>"0.001593885624"</item>
+        <item>"Eighth Rest"</item><!--name    min-->
+        <item>"a rest equal in time value to an eighth note."</item><!--definition    min-->
+    </string-array>
+
+    <string-array name="R">
+        <item>"12"</item> <!--h/w   min-->
+        <item>"22"</item>
+        <item>"1"</item>  <!--b/w   min-->
+        <item>"3"</item>
+        <item>"1.737373737"</item> <!--(h/w)/p    min-->
+        <item>"1.777777778"</item>
+        <item>"0.4398433128"</item><!--vertical inter  min-->
+        <item>"0.4595018289"</item>
+        <item>"0.001210192815"</item><!--horizontal inter    min-->
+        <item>"0.00157193159"</item>
+        <item>"Sixteenth Rest"</item><!--name    min-->
+        <item>"a rest equal in time value to a sixteenth note."</item><!--definition    min-->
+    </string-array>
+
+    <string-array name="S">
+        <item>"31"</item> <!--h/w   min-->
+        <item>"48"</item>
+        <item>"19"</item>  <!--b/w   min-->
+        <item>"44"</item>
+        <item>"2.43956044"</item> <!--(h/w)/p    min-->
+        <item>"2.479452055"</item>
+        <item>"0.1961048506"</item><!--vertical inter  min-->
+        <item>"0.2208724462"</item>
+        <item>"0.001897907117"</item><!--horizontal inter    min-->
+        <item>"0.003438789546"</item>
+        <item>"Arpeggio"</item><!--name    min-->
+        <item>"the sounding of the notes of a chord in rapid succession instead of simultaneously."</item><!--definition    min-->
+    </string-array>
+
+    <string-array name="T">
+        <item>"3"</item> <!--h/w   min-->
+        <item>"10"</item>
+        <item>"5"</item>  <!--b/w   min-->
+        <item>"15"</item>
+        <item>"1.807017544"</item> <!--(h/w)/p    min-->
+        <item>"1.817204301"</item>
+        <item>"1.148760331"</item><!--vertical inter  min-->
+        <item>"1.234741784"</item>
+        <item>"0.003924847303"</item><!--horizontal inter    min-->
+        <item>"0.007958074534"</item>
+        <item>"Breath Mark"</item><!--name    min-->
+        <item>"make a slight pause"</item><!--definition    min-->
+    </string-array>
+
+    <string-array name="U">
+        <item>"3"</item> <!--h/w   min-->
+        <item>"6"</item>
+        <item>"3"</item>  <!--b/w   min-->
+        <item>"7"</item>
+        <item>"0.9846153846"</item> <!--(h/w)/p    min-->
+        <item>"0.9913793103"</item>
+        <item>"0.8140307181"</item><!--vertical inter  min-->
+        <item>"0.9074594067"</item>
+        <item>"0.0007598784195"</item><!--horizontal inter    min-->
+        <item>"0.0009601838516"</item>
+        <item>"Pedal Up"</item><!--name    min-->
+        <item>"Lift Pedal"</item><!--definition    min-->
+    </string-array>
+
+    <string-array name="V">
+        <item>"1"</item> <!--h/w   min-->
+        <item>"17"</item>
+        <item>"1"</item>  <!--b/w   min-->
+        <item>"2"</item>
+        <item>"1.147435897"</item> <!--(h/w)/p    min-->
+        <item>"1.162337662"</item>
+        <item>"0.5599262446"</item><!--vertical inter  min-->
+        <item>"0.5736543909"</item>
+        <item>"0.0009601974037"</item><!--horizontal inter    min-->
+        <item>"0.001846295869"</item>
+        <item>"Cota"</item><!--name    min-->
+        <item>"to designate a passage that brings a piece (or a movement) to an end. "</item><!--definition    min-->
+    </string-array>
+
+    <string-array name="W">
+        <item>"3"</item> <!--h/w   min-->
+        <item>"7"</item>
+        <item>"7"</item>  <!--b/w   min-->
+        <item>"8"</item>
+        <item>"0.4705882353"</item> <!--(h/w)/p    min-->
+        <item>"0.4733727811"</item>
+        <item>"0.4325556734"</item><!--vertical inter  min-->
+        <item>"0.4570205291"</item>
+        <item>"0.0005131823722"</item><!--horizontal inter    min-->
+        <item>"0.0005969487392"</item>
+        <item>"Da Capo"</item><!--name    min-->
+        <item>"From the beginning. Used as a direction to repeat a passage."</item><!--definition    min-->
+    </string-array>
+
+    <string-array name="X">
+        <item>"1"</item> <!--h/w   min-->
+        <item>"2"</item>
+        <item>"8"</item>  <!--b/w   min-->
+        <item>"11"</item>
+        <item>"0.4294117647"</item> <!--(h/w)/p    min-->
+        <item>"0.4356846473"</item>
+        <item>"0.3285595395"</item><!--vertical inter  min-->
+        <item>"0.3412509897"</item>
+        <item>"0.0003708153488"</item><!--horizontal inter    min-->
+        <item>"0.0005771135708"</item>
+        <item>"Dal Segno(Word)"</item><!--name    min-->
+        <item>"to be repeated from the point marked with the sign "</item><!--definition    min-->
+    </string-array>
+
+    <string-array name="Y">
+        <item>"7"</item> <!--h/w   min-->
+        <item>"12"</item>
+        <item>"12"</item>  <!--b/w   min-->
+        <item>"18"</item>
+        <item>"1.210526316"</item> <!--(h/w)/p    min-->
+        <item>"1.225490196"</item>
+        <item>"1.014800515"</item><!--vertical inter  min-->
+        <item>"1.098445596"</item>
+        <item>"0.001003436922"</item><!--horizontal inter    min-->
+        <item>"0.001518853596"</item>
+        <item>"Dal Segno(Symbol)"</item><!--name    min-->
+        <item>"The place at which the piece repeats from, after the D.S. sign."</item><!--definition    min-->
+    </string-array>
+
+    <string-array name="Z">
+        <item>"1"</item> <!--h/w   min-->
+        <item>"4"</item>
+        <item>"1"</item>  <!--b/w   min-->
+        <item>"4"</item>
+        <item>"1.014184397"</item> <!--(h/w)/p    min-->
+        <item>"1.028169014"</item>
+        <item>"1.432770109"</item><!--vertical inter  min-->
+        <item>"1.495241721"</item>
+        <item>"0.001689690309"</item><!--horizontal inter    min-->
+        <item>"0.002495236367"</item>
+        <item>"Down Bow"</item><!--name    min-->
+        <item>"a stroke bringing the tip of the bow toward the strings, indicated in scores by the symbol"</item><!--definition    min-->
+    </string-array>
+
+</resources>

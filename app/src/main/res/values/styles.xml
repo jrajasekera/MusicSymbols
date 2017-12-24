@@ -1,0 +1,10 @@
+<resources>
+
+
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!--<item name="android:background">@drawable/mw</item> -->
+
+    </style>
+
+
+</resources>

@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MusicSymbols</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="cam_access">Access Camera</string>
+    <string name="app_directions">Press button, take photo, then crop.</string>
+    <string name="img_desc">User Image</string>
+
+</resources>
